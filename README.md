@@ -13,8 +13,8 @@
   3. Where did the passengers came from?
   4. Whether the passengers were on a solo or family trip
   5. factors that helped passengers survive:
-     a. relation between deck and survival rate
-     b. presence of family member and survival rate
+      a. relation between deck and survival rate
+      b. presence of family member and survival rate
 
 ## Technologies
   Python 3
