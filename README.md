@@ -17,6 +17,6 @@
       b. presence of family member and survival rate
 
 ## Technologies
-  Python 3
-  Pandas
-  Seaborn
+    Python 3
+    Pandas
+    Seaborn
