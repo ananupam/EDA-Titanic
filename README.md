@@ -1,8 +1,8 @@
 # EDA-Titanic
 
-##Table of contents
-*[General info](#general_info)
-*[Technologies](#technologies)
+## Table of contents
+* [General info](#general_info)
+* [Technologies](#technologies)
 
 ## General info
   An Exploratory Data Analysis Project done on the Titanic Dataset.
